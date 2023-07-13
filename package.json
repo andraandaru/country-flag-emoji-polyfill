@@ -27,6 +27,6 @@
     "microbundle": "^0.14.2"
   },
   "dependencies": {
-    "is-emoji-supported": "^0.0.5"
+    "is-emoji-supported": "github:andraandaru/is-emoji-supported"
   }
 }
